@@ -2,7 +2,14 @@
 I’m currently working in Application Development and Maintenance as a Java Developer. <br>I have experience building robust web applications, integrating cloud services, and contributing to full-stack development projects.<br>Passionate about learning and implementing scalable solutions.
 
 
-# Badges:
+# ✍️ Random Dev Quote
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+# 🎓 Badges:
 <img src="https://raw.githubusercontent.com/JayaPrakash112003/JayaPrakash112003/main/badges/AWS badge.png" height="180" />
 
 <br/><br>
