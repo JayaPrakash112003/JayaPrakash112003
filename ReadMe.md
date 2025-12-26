@@ -9,8 +9,7 @@ I’m currently working in Application Development and Maintenance as a Java Dev
 </div>
 
 # 🎓 Badges:
-<img src="https://raw.githubusercontent.com/JayaPrakash112003/JayaPrakash112003/main/badges/AWS badge.png" height="180" />
-<img src="https://raw.githubusercontent.com/JayaPrakash112003/JayaPrakash112003/main/badges/Aws Database.png" height="180" />
+<img src="https://raw.githubusercontent.com/JayaPrakash112003/JayaPrakash112003/main/badges/AWS badge.png" height="180" /><img src="https://raw.githubusercontent.com/JayaPrakash112003/JayaPrakash112003/main/badges/Aws Database.png" height="180" />
 
 
 <br/><br>
